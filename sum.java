@@ -1,7 +1,7 @@
-impoprt java.util.*;
-public class add
+import java.util.*;
+public class sum
 {
- public static void main(Sting args[])
+ public static void main(String args[])
   {
    int num1,num2,sum;
    Scanner sc=new Scanner (System.in);
@@ -13,4 +13,3 @@ public class add
     System.out.println("Sum of thses numbers"+sum);
     }
   }
-   
